@@ -76,7 +76,7 @@ DSprimaryButton_hoverHighlight=highlightHover
 DSstateBackgroundColor_hover=ashGrey
 DSstateControlBackgroundColor_globalHover=ashGrey
 DSstateControlBackgroundColor_hover=raincloudGrey
-DSpanelBackground=dawnGrey
+DSpanelBackground=midnightGrey
 
 ;4.3
 DSpopoutBackground=coalGrey
@@ -124,14 +124,14 @@ DSpillLiteralBackgroundHover=ff5fb8ea
 
 ;REMAPPED
 DSinteraction=highlightBlue
-DScontrolBackground=dawnGrey
+DScontrolBackground=midnightGrey
 DScontrolOutlineInteraction=highlightBlue
 DScontrolOutline=offBlack
 DSiconColorInteraction=coalGrey
 DSiconColorSelected=coalGrey
 DSsectionHeadBackground=midnightGrey
 DSstateSeparatorColor=graniteGrey
-DSnavigatorItemBackground=dawnGrey
+DSnavigatorItemBackground=ashGrey
 DSnavigatorItemBackgroundHover=ashGrey
 DSnavigatorItemBackgroundSelected=midnightGrey
 DStabActiveBackground=ashGrey
@@ -146,7 +146,7 @@ DSinteractionHover=highlightHover
 DSnavigatorTextSelected=highlightBlue
 
 ;background color for main form view, library, navigator, properties, connections
-QmlDesigner_BackgroundColorDarkAlternate=dawnGrey
+QmlDesigner_BackgroundColorDarkAlternate=midnightGrey
 
 DSscrollBarTrack=graniteGrey
 DSscrollBarHandle=slateGrey
@@ -158,7 +158,7 @@ DSdockWidgetSplitter=offBlack
 ;LEGACY
 DSwelcomeScreenBackground=ff232629
 DSsubPanelBackground=ff1b1e20
-DSthumbnailBackground=ff2a2e32
+DSthumbnailBackground=midnightGrey
 DSthumbnailLabelBackground=ff31363b
 DSgreenLight=ff3daee9
 DSamberLight=fffbf400
@@ -208,7 +208,7 @@ DSstateDefaultHighlight=fff67400
 DSstateBackgroundColor=fff3c300
 DSstatePreviewOutline=ffbdc3c7
 
-DSstatePanelBackground=ff2a2e32
+DSstatePanelBackground=midnightGrey
 DSstateHighlight=ff808387
 
 DSchangedStateText=ff3daee9
@@ -228,17 +228,17 @@ DStableHeaderText=lightWhite
 
 DSdockContainerBackground=coalGrey
 DSdockContainerSplitter=offBlack
-DSdockAreaBackground=dawnGrey
-DSdockWidgetBackground=dawnGrey
+DSdockAreaBackground=ashGrey
+DSdockWidgetBackground=midnightGrey
 DStitleBarText=lightWhite
 DStitleBarIcon=lightWhite
 DStitleBarButtonHover=40ffffff
 DStitleBarButtonPress=60ffffff
 
-DStabContainerBackground=midnightGrey
+DStabContainerBackground=ashGrey
 DStabSplitter=offBlack
 
-DStabInactiveBackground=midnightGrey
+DStabInactiveBackground=ashGrey
 DStabInactiveText=lightWhite
 DStabInactiveIcon=lightWhite
 DStabInactiveButtonHover=ashGrey
@@ -262,7 +262,7 @@ DSnavigatorDropIndicatorBackground=highlightBlue
 DSnavigatorDropIndicatorOutline=highlightBlue
 
 DSheaderViewBackground=midnightGrey
-DStableViewAlternateBackground=dawnGrey
+DStableViewAlternateBackground=midnightGrey
 
 DStoolTipBackground=ff31363b
 DStoolTipOutline=ff4d5258
@@ -319,14 +319,14 @@ QmlDesigner_BackgroundColor=ff31363b
 QmlDesigner_HighlightColor=ff1d4e64
 QmlDesigner_FormEditorSelectionColor=ff3daee9
 QmlDesigner_FormEditorForegroundColor=ffeff0f1
-QmlDesigner_BackgroundColorDarkAlternate=dawnGrey
+QmlDesigner_BackgroundColorDarkAlternate=midnightGrey
 QmlDesigner_BackgroundColorDarker=ff232629
 QmlDesigner_BorderColor=ff1b1e20
 QmlDesigner_ButtonColor=ff4d5258
 QmlDesigner_TabDark=midnightGrey
 QmlDesigner_TabLight=Token_Text_Default
 QmlDesigner_FormeditorBackgroundColor=ff31363b
-QmlDesigner_AlternateBackgroundColor=ff2a2e32
+QmlDesigner_AlternateBackgroundColor=midnightGrey
 QmlDesigner_ScrollBarHandleColor=ff4d5258
 
 TerminalForeground=fcfcfc

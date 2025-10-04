@@ -2,6 +2,9 @@
 
 Created to integrate Qt Creator into my KDE Plasma workflow.
 
+<img src="assets/2.png" />
+<img src="assets/1.png" />
+
 ## Available Themes
 
 - **Breeze Dark**: Original blue-accented dark theme.
